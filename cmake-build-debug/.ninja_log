@@ -1,0 +1,11 @@
+# ninja log v5
+2	600	1667004911781173036	CMakeFiles/cpp_tutorials.dir/004_booleans.cpp.o	376aefa53befe36b
+0	601	1667005595658151638	CMakeFiles/cpp_tutorials.dir/007_constants_2.cpp.o	c051d43bdb92abe0
+2	594	1667005331253159883	CMakeFiles/cpp_tutorials.dir/005_escape_characters.cpp.o	7e70c6d6150372b1
+4	2534	1667004400442189026	CMakeFiles/cpp_tutorials.dir/variables.cpp.o	95e299b3f5ed062e
+4	2444	1667004706574179444	CMakeFiles/cpp_tutorials.dir/003_unsigned_variables.cpp.o	2efb585867888eac
+0	585	1667005502143154569	CMakeFiles/cpp_tutorials.dir/006_constants_1.cpp.o	72c9e036b81119be
+602	898	1667005595954151629	cpp_tutorials	b8286d8c868179e6
+2	783	1667005755006146601	CMakeFiles/cpp_tutorials.dir/008_ascii_values.cpp.o	eae3f8c8a037b129
+2	916	1667002918264663671	CMakeFiles/cpp_tutorials.dir/introduce_yourself.cpp.o	a16dbc033ecfcebf
+4	331	1667005794520145423	cpp_tutorials	36dfb2e8a1651908
