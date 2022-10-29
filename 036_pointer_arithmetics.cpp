@@ -35,5 +35,6 @@ int main() {
     cout << *myShortPointer << "\n";
     cout << *myIntPointer << "\n";
     cout << *myLongPointer << "\n";
+    // the size in bytes is added to the pointer
     return 0;
 }

@@ -3,4 +3,4 @@ project(cpp_tutorials)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorials pointer_arithmetics.cpp)
+add_executable(cpp_tutorials 037_const_and_pointers.cpp)
