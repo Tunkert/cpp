@@ -3,4 +3,4 @@ project(cpp_tutorials)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorials 034_pointers.cpp)
+add_executable(cpp_tutorials 035_pointers_arrays_functions.cpp)
