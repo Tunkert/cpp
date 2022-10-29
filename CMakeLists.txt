@@ -3,4 +3,4 @@ project(cpp_tutorials)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorials 012_more_conditionals.cpp)
+add_executable(cpp_tutorials 015_loop_arrays.cpp)
