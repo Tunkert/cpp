@@ -3,4 +3,4 @@ project(cpp_tutorials)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorials 028_namespace_aliases.cpp)
+add_executable(cpp_tutorials 033_std_getline.cpp)
