@@ -3,4 +3,4 @@ project(cpp_tutorials)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorials 039_data_structures.cpp)
+add_executable(cpp_tutorials 041_enums.cpp)
