@@ -3,4 +3,4 @@ project(cpp_tutorials)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorials 041_enums.cpp)
+add_executable(cpp_tutorials 042_classes_intro.cpp)
