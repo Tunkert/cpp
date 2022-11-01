@@ -49,8 +49,32 @@ cmake_ninja_workdir = /home/tunkert/CLionProjects/cpp_tutorials/cmake-build-debu
 
 build cmake_object_order_depends_target_cpp_tutorials: phony || CMakeFiles/cpp_tutorials.dir
 
-build CMakeFiles/cpp_tutorials.dir/042_classes_intro.cpp.o: CXX_COMPILER__cpp_tutorials_Debug /home/tunkert/CLionProjects/cpp_tutorials/042_classes_intro.cpp || cmake_object_order_depends_target_cpp_tutorials
-  DEP_FILE = CMakeFiles/cpp_tutorials.dir/042_classes_intro.cpp.o.d
+build CMakeFiles/cpp_tutorials.dir/044_default_contructors.cpp.o: CXX_COMPILER__cpp_tutorials_Debug /home/tunkert/CLionProjects/cpp_tutorials/044_default_contructors.cpp || cmake_object_order_depends_target_cpp_tutorials
+  DEP_FILE = CMakeFiles/cpp_tutorials.dir/044_default_contructors.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/cpp_tutorials.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp_tutorials.dir
+
+build CMakeFiles/cpp_tutorials.dir/045_other_ways_to_initialize.cpp.o: CXX_COMPILER__cpp_tutorials_Debug /home/tunkert/CLionProjects/cpp_tutorials/045_other_ways_to_initialize.cpp || cmake_object_order_depends_target_cpp_tutorials
+  DEP_FILE = CMakeFiles/cpp_tutorials.dir/045_other_ways_to_initialize.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/cpp_tutorials.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp_tutorials.dir
+
+build CMakeFiles/cpp_tutorials.dir/046_pointers_and_classes.cpp.o: CXX_COMPILER__cpp_tutorials_Debug /home/tunkert/CLionProjects/cpp_tutorials/046_pointers_and_classes.cpp || cmake_object_order_depends_target_cpp_tutorials
+  DEP_FILE = CMakeFiles/cpp_tutorials.dir/046_pointers_and_classes.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/cpp_tutorials.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp_tutorials.dir
+
+build CMakeFiles/cpp_tutorials.dir/047_other_cool_class_definitions.cpp.o: CXX_COMPILER__cpp_tutorials_Debug /home/tunkert/CLionProjects/cpp_tutorials/047_other_cool_class_definitions.cpp || cmake_object_order_depends_target_cpp_tutorials
+  DEP_FILE = CMakeFiles/cpp_tutorials.dir/047_other_cool_class_definitions.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/cpp_tutorials.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp_tutorials.dir
+
+build CMakeFiles/cpp_tutorials.dir/048_struct_classes.cpp.o: CXX_COMPILER__cpp_tutorials_Debug /home/tunkert/CLionProjects/cpp_tutorials/048_struct_classes.cpp || cmake_object_order_depends_target_cpp_tutorials
+  DEP_FILE = CMakeFiles/cpp_tutorials.dir/048_struct_classes.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/cpp_tutorials.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp_tutorials.dir
@@ -63,7 +87,7 @@ build CMakeFiles/cpp_tutorials.dir/042_classes_intro.cpp.o: CXX_COMPILER__cpp_tu
 #############################################
 # Link the executable cpp_tutorials
 
-build cpp_tutorials: CXX_EXECUTABLE_LINKER__cpp_tutorials_Debug CMakeFiles/cpp_tutorials.dir/042_classes_intro.cpp.o
+build cpp_tutorials: CXX_EXECUTABLE_LINKER__cpp_tutorials_Debug CMakeFiles/cpp_tutorials.dir/044_default_contructors.cpp.o CMakeFiles/cpp_tutorials.dir/045_other_ways_to_initialize.cpp.o CMakeFiles/cpp_tutorials.dir/046_pointers_and_classes.cpp.o CMakeFiles/cpp_tutorials.dir/047_other_cool_class_definitions.cpp.o CMakeFiles/cpp_tutorials.dir/048_struct_classes.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/cpp_tutorials.dir
   POST_BUILD = :

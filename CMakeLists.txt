@@ -3,4 +3,4 @@ project(cpp_tutorials)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorials 042_classes_intro.cpp)
+add_executable(cpp_tutorials 044_default_contructors.cpp 045_other_ways_to_initialize.cpp 046_pointers_and_classes.cpp 047_other_cool_class_definitions.cpp 048_struct_classes.cpp)
